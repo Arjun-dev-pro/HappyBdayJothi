@@ -81,8 +81,8 @@ audio {
 @media all and (min-width:0) and (max-width: 320px) {
     .player{
         position: absolute;
-        top: 10%;
-        left: 30%;
+        top: 0;
+        left: 0;
         height: 100%;
         width: 100%;
     }
