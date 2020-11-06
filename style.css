@@ -85,6 +85,19 @@ audio {
         left: 10%;
         height: 80%;
         width: 80%;
+<<<<<<< HEAD
+=======
+    }
+}
+
+@media all and (min-width: 900px) and (max-width:1500px) {
+    .player {
+        position: absolute;
+        top: 0;
+        left: 10%;
+        height: 80%;
+        width: 80%;
+>>>>>>> e7e4091f592edeb0d50d0c54a2b07abbe937e780
     }
 }
 
